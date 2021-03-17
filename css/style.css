@@ -1,0 +1,13 @@
+body{
+  background-color: #000000;
+}
+
+.main-wrapper {
+  height: 100vh;
+}
+
+.bottom-right{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
